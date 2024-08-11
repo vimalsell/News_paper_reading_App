@@ -37,10 +37,10 @@ packages:
     dependency: transitive
     description:
       name: cached_network_image_web
-      sha256: "42a835caa27c220d1294311ac409a43361088625a4f23c820b006dd9bffb3316"
+      sha256: "205d6a9f1862de34b93184f22b9d2d94586b2f05c581d546695e3d8f6a805cd7"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.1"
+    version: "1.2.0"
   carousel_slider:
     dependency: "direct main"
     description:
@@ -85,10 +85,10 @@ packages:
     dependency: "direct main"
     description:
       name: cupertino_icons
-      sha256: d57953e10f9f8327ce64a508a355f0b1ec902193f66288e8cb5070e7c47eeb2d
+      sha256: ba631d1c7f7bef6b729a622b7b752645a2d076dba9976925b8f25725a30e1ee6
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.6"
+    version: "1.0.8"
   fake_async:
     dependency: transitive
     description:
@@ -199,10 +199,10 @@ packages:
     dependency: transitive
     description:
       name: octo_image
-      sha256: "45b40f99622f11901238e18d48f5f12ea36426d8eced9f4cbf58479c7aa2430d"
+      sha256: "34faa6639a78c7e3cbe79be6f9f96535867e879748ade7d17c9b1ae7536293bd"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0"
+    version: "2.1.0"
   path:
     dependency: transitive
     description:
@@ -215,18 +215,18 @@ packages:
     dependency: transitive
     description:
       name: path_provider
-      sha256: b27217933eeeba8ff24845c34003b003b2b22151de3c908d0e679e8fe1aa078b
+      sha256: fec0d61223fba3154d87759e3cc27fe2c8dc498f6386c6d6fc80d1afdd1bf378
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.2"
+    version: "2.1.4"
   path_provider_android:
     dependency: transitive
     description:
       name: path_provider_android
-      sha256: "477184d672607c0a3bf68fbbf601805f92ef79c82b64b4d6eb318cbca4c48668"
+      sha256: a248d8146ee5983446bf03ed5ea8f6533129a12b11f12057ad1b4a67a2b3b41d
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.2"
+    version: "2.2.4"
   path_provider_foundation:
     dependency: transitive
     description:
@@ -255,18 +255,18 @@ packages:
     dependency: transitive
     description:
       name: path_provider_windows
-      sha256: "8bc9f22eee8690981c22aa7fc602f5c85b497a6fb2ceb35ee5a5e5ed85ad8170"
+      sha256: bd6f00dbd873bfb70d0761682da2b3a2c2fccc2b9e84c495821639601d81afe7
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "2.3.0"
   platform:
     dependency: transitive
     description:
       name: platform
-      sha256: "12220bb4b65720483f8fa9450b4332347737cf8213dd2840d8b2c823e47243ec"
+      sha256: "9b71283fc13df574056616011fb138fd3b793ea47cc509c189a6c3fa5f8a1a65"
       url: "https://pub.dev"
     source: hosted
-    version: "3.1.4"
+    version: "3.1.5"
   plugin_platform_interface:
     dependency: transitive
     description:
@@ -292,10 +292,10 @@ packages:
     dependency: "direct main"
     description:
       name: smooth_page_indicator
-      sha256: "725bc638d5e79df0c84658e1291449996943f93bacbc2cec49963dbbab48d8ae"
+      sha256: "3b28b0c545fa67ed9e5997d9f9720d486f54c0c607e056a1094544e36934dff3"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.0+3"
   source_span:
     dependency: transitive
     description:
@@ -388,10 +388,10 @@ packages:
     dependency: transitive
     description:
       name: uuid
-      sha256: cd210a09f7c18cbe5a02511718e0334de6559871052c90a90c0cca46a4aa81c8
+      sha256: "83d37c7ad7aaf9aa8e275490669535c8080377cfa7a7004c24dfac53afffaa90"
       url: "https://pub.dev"
     source: hosted
-    version: "4.3.3"
+    version: "4.4.2"
   vector_math:
     dependency: transitive
     description:
@@ -408,14 +408,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.0"
-  win32:
-    dependency: transitive
-    description:
-      name: win32
-      sha256: "464f5674532865248444b4c3daca12bd9bf2d7c47f759ce2617986e7229494a8"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.2.0"
   xdg_directories:
     dependency: transitive
     description:
@@ -426,4 +418,4 @@ packages:
     version: "1.0.4"
 sdks:
   dart: ">=3.2.3 <4.0.0"
-  flutter: ">=3.10.0"
+  flutter: ">=3.16.0"
