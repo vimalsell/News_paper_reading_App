@@ -12,6 +12,8 @@ import '../models/category_model.dart';
 import '../models/slider_model.dart';
 import '../services/news.dart';
 
+
+
 class Home extends StatefulWidget {
   const Home({super.key});
 
